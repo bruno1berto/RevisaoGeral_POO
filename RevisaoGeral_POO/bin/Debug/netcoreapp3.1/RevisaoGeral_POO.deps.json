@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RevisaoGeral_POO/1.0.0": {
+        "runtime": {
+          "RevisaoGeral_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevisaoGeral_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

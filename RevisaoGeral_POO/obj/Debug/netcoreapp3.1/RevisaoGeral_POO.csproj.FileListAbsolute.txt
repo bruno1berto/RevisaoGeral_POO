@@ -1,0 +1,13 @@
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\bin\Debug\netcoreapp3.1\RevisaoGeral_POO.exe
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\bin\Debug\netcoreapp3.1\RevisaoGeral_POO.deps.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\bin\Debug\netcoreapp3.1\RevisaoGeral_POO.runtimeconfig.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\bin\Debug\netcoreapp3.1\RevisaoGeral_POO.runtimeconfig.dev.json
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\bin\Debug\netcoreapp3.1\RevisaoGeral_POO.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\bin\Debug\netcoreapp3.1\RevisaoGeral_POO.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.csprojAssemblyReference.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.AssemblyInfoInputs.cache
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.AssemblyInfo.cs
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.dll
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.pdb
+C:\Users\Leao\Google Drive\Programação\Cursos\C#\Repos\RevisaoGeral_POO\RevisaoGeral_POO\obj\Debug\netcoreapp3.1\RevisaoGeral_POO.genruntimeconfig.cache
