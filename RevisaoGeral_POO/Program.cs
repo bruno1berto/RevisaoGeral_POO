@@ -10,22 +10,36 @@ namespace RevisaoGeral_POO
     {
         static void Main(string[] args)
         {
+            List<Client> clients = new List<Client>();
+            List<Account> accounts = new List<Account>();
+
             try
             {
-                List<Client> clients = new List<Client>();
-                List<Account> accounts = new List<Account>();
-
                 Menu.ExecuteManu(clients, accounts);
             }
             catch(DomainException err)
             {
                 Console.WriteLine("Error: " + err.Message);
-                Console.ReadLine();
             }
             catch (Exception err)
             {
                 Console.WriteLine("Unexpected Error: " + err.Message);
-                Console.ReadLine();
+            }
+            finally
+            {
+                Console.WriteLine();
+                Console.Write("Perform another operation? (s/n): ");
+                char ch = char.Parse(Console.ReadLine());
+                if (ch == 's' || ch == 'S')
+                {
+                    Console.WriteLine();
+                    Menu.ExecuteManu(clients, accounts);
+                }
+                else
+                {
+                    Console.WriteLine("End program...");
+                    Console.ReadLine();
+                }
             }
         }
     }

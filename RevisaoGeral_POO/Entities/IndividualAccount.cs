@@ -30,6 +30,8 @@ namespace RevisaoGeral_POO.Entities
         {
             if (amount > Holder.LoanLimit)
                 throw new DomainException("Loan Limit from client exceeded.");
+            else if (amount > Holder.AvailableLoanLimit)
+                throw new DomainException("Loan Limit available from client exceeded. (Available: " + Holder.AvailableLoanLimit.ToString("F2") + ")");
             else
                 Balance += amount - amount * loanFee / 100;
                 Holder.UpdateAvailableLoanLimit(amount);
